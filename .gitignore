@@ -3,7 +3,7 @@ vendor
 .env
 .env copy 2
 .env infinity
-.env.example
+
 .env.test
 html
 sql
