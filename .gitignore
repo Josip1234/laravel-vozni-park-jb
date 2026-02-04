@@ -1,9 +1,1 @@
 node_modules
-
-
-.env copy 2
-.env infinity
-
-.env.test
-html
-sql
